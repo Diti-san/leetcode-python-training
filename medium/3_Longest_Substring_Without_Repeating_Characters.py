@@ -1,3 +1,12 @@
+"""
+Problem: 3. Longest Substring Without Repeating Characters
+Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
+Difficulty: hard
+Topic: Hash Table, String, Sliding Window
+Time Complexity: O(n)
+Space Complexity: O(n)
+""" 
+
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         char_index = {}
