@@ -1,7 +1,7 @@
 """
 Problem: 1. TwoSum
 Link: https://leetcode.com/problems/two-sum/
-Difficulty: Medium
+Difficulty: Easy
 Topic: Array, Hash Table
 Time Complexity: O(n)
 Space Complexity: O(n)
