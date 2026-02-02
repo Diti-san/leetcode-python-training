@@ -2,7 +2,7 @@
 Problem: 383. Ransom Note
 Link: https://leetcode.com/problems/ransom-note/
 Difficulty: Easy
-Topic: Array, Greedy
+Topic: Hash Table, String, Counting
 Time Complexity: O(n)
 Space Complexity: O(n)
 """
