@@ -1,8 +1,8 @@
 """
 Problem: 49. Group Anagrams
-Link: https://leetcode.com/problems/add-two-numbers/
+Link: https://leetcode.com/problems/group-anagrams/
 Difficulty: Medium
-Topic: Linked List, Math
+Topic: Array, Hash Table, String, Sorting
 Time Complexity: O(n)
 Space Complexity: O(n)
 """
